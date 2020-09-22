@@ -9,6 +9,16 @@ namespace BE
     public class Banco
     {
 
+        private int _id;
+
+        public int ID
+        {
+            get { return _id; }
+            set { _id = value; }
+        }
+
+
+
         private string _Bco;
 
         public string Bco
@@ -17,6 +27,10 @@ namespace BE
             set { _Bco = value; }
         }
 
+        public override string ToString()
+        {
+            return Bco;
+        }
 
     }
 }

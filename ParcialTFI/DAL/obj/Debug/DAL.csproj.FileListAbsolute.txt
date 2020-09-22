@@ -1,0 +1,9 @@
+C:\Users\Nico\Documents\GitHub\ParcialTFI\ParcialTFI\DAL\bin\Debug\DAL.dll
+C:\Users\Nico\Documents\GitHub\ParcialTFI\ParcialTFI\DAL\bin\Debug\DAL.pdb
+C:\Users\Nico\Documents\GitHub\ParcialTFI\ParcialTFI\DAL\bin\Debug\BE.dll
+C:\Users\Nico\Documents\GitHub\ParcialTFI\ParcialTFI\DAL\bin\Debug\BE.pdb
+C:\Users\Nico\Documents\GitHub\ParcialTFI\ParcialTFI\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Nico\Documents\GitHub\ParcialTFI\ParcialTFI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Documents\GitHub\ParcialTFI\ParcialTFI\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Nico\Documents\GitHub\ParcialTFI\ParcialTFI\DAL\obj\Debug\DAL.dll
+C:\Users\Nico\Documents\GitHub\ParcialTFI\ParcialTFI\DAL\obj\Debug\DAL.pdb

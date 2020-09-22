@@ -6,8 +6,17 @@ using System.Threading.Tasks;
 
 namespace BE
 {
-    class Recibo
+    public class Recibo
     {
+
+        private int _id;
+
+        public int ID
+        {
+            get { return _id; }
+            set { _id = value; }
+        }
+
 
         private List<BE.Concepto> _ListaConceptos;
 
@@ -65,15 +74,35 @@ namespace BE
             set { _periodo = value; }
         }
 
-        private BE.TipoLiquidacion _TipoLiquidacion;
+        private List<BE.Renglon> _renglones;
 
-        public BE.TipoLiquidacion TipoLiq
+        public List<BE.Renglon> Renglones
         {
-            get { return _TipoLiquidacion; }
-            set { _TipoLiquidacion = value; }
+            get { return _renglones; }
+            set { _renglones = value; }
         }
 
 
+        private BE.Empleado _emp;
+
+        public BE.Empleado Emp
+        {
+            get { return _emp; }
+            set { _emp = value; }
+        }
+
+        private string _tipoLiquidacion;
+
+        public string TipoLiquidacion
+        {
+            get { return _tipoLiquidacion; }
+            set { _tipoLiquidacion = value; }
+        }
+
+        public override string ToString()
+        {
+            return Periodo + " - " + TipoLiquidacion + " - " + FechaDePago.ToShortDateString();
+        }
 
     }
 }

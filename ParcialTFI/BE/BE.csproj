@@ -44,12 +44,15 @@
     <Compile Include="Banco.cs" />
     <Compile Include="Categoria.cs" />
     <Compile Include="Concepto.cs" />
+    <Compile Include="EmpleadoDespedido.cs" />
     <Compile Include="Recibo.cs" />
-    <Compile Include="TipoLiquidacion.cs" />
-    <Compile Include="Usuario.cs" />
+    <Compile Include="Renglon.cs" />
+    <Compile Include="TipoConcepto.cs" />
+    <Compile Include="Empleado.cs" />
     <Compile Include="Departamento.cs" />
     <Compile Include="Division.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ValorConcepto.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

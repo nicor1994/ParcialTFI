@@ -1,0 +1,6 @@
+C:\Users\Nico\Documents\GitHub\ParcialTFI\ParcialTFI\BE\bin\Debug\BE.dll
+C:\Users\Nico\Documents\GitHub\ParcialTFI\ParcialTFI\BE\bin\Debug\BE.pdb
+C:\Users\Nico\Documents\GitHub\ParcialTFI\ParcialTFI\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Documents\GitHub\ParcialTFI\ParcialTFI\BE\obj\Debug\BE.dll
+C:\Users\Nico\Documents\GitHub\ParcialTFI\ParcialTFI\BE\obj\Debug\BE.pdb
+C:\Users\Nico\Documents\GitHub\ParcialTFI\ParcialTFI\BE\obj\Debug\BE.csprojAssemblyReference.cache
